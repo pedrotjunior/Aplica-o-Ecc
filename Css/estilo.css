@@ -1,0 +1,37 @@
+*{
+
+}
+body{
+    background: #d2d2c1;
+  
+}
+
+.conteiner{
+    display: flex;
+}
+.iten_1{
+    width: 10px;
+    height: 20px;
+    background-color: blue;
+    padding: 2px;
+    /*flex: 2;*/
+	margin: 5px;
+    text-align: center;
+	font-size: 1.5em;
+}
+.iten_2{
+    width: 20;
+    height: 40;
+    background-color: red;
+    margin: 5px;
+    text-align: center;
+}
+
+.iten_3{
+    width: 30px;
+    height: 60px;
+    background-color: green;
+    margin: 5px;
+    text-align: center;
+}
+
